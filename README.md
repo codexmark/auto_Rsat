@@ -42,19 +42,4 @@ Este script é projetado para ajudar na instalação das ferramentas RSAT de for
 
 <div style="text-align: center">⁂</div>
 
-[^1]: https://www.varonis.com/pt-br/blog/windows-powershell-tutorials
-
-[^2]: https://learn.microsoft.com/pt-br/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.5
-
-[^3]: https://learn.microsoft.com/pt-br/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-7.5
-
-[^4]: https://www.youtube.com/watch?v=0wIy81WqZVU
-
-[^5]: https://pt.stackoverflow.com/questions/220078/o-que-significa-o-erro-execução-de-scripts-foi-desabilitada-neste-sistema
-
-[^6]: https://cursos.alura.com.br/forum/topico-erro-no-windows-powershell-314737
-
-[^7]: https://paulosantanna.com/2012/10/14/habilitando-a-execucao-de-scripts-powershell/
-
-[^8]: https://eryxguimaraes.com.br/?p=199
 
